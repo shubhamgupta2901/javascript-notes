@@ -2,4 +2,4 @@
 * In javascript, each function creates a scope. It is a space in which all the variables it defines are accessible. In other languages if-else/loop blocks could also create a scope. But NOT in javascript.Only functions can create scope.
 * **Lexical Scoping**: A function that is lexically within another function, gets access to the scope of the outer/parent function.
 
-![alt text](https://github.com/shubhamgupta2901/javascript-notes/blob/master/assets/Scoping%20in%20JS.png "")
+![alt text](https://github.com/shubhamgupta2901/javascript-notes/blob/master/assets/Execution%20Context%20in%20detail.png "")
